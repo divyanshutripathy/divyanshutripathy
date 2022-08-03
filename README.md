@@ -1,4 +1,4 @@
-## Hey, I am Divyanshu Tripathy
+<img src="github-header-image.png" />
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/divyanshu-tripathy/">
