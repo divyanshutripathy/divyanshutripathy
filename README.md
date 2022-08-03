@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey, I am Divyanshu Tripathy
+
+<p style="text-align: justify; font-size: 38px;"> 
+A computer science graduate with experience in Web Development and Data Science. I have worked on many Web Development projects using ReactJS, NextJS and Python Django frameworks, and I have relevant industry experience from an internship based on Frontend Development. I have also completed a Data Science specialisation with IBM along with my undergrad, and have worked with Python pandas, numpy, seaborn, scikitlearn and Tableau.<br>
+I enjoy competitive coding and I love to use <a href="https://www.codechef.com/users/divyanshu1007" target="_blank">CodeChef</a> and <a href="https://auth.geeksforgeeks.org/user/divyanshutripathy/practice/">GeeksforGeeks</a> to compete and practice.
+</p>
 
 <!--
 **divyanshutripathy/divyanshutripathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
